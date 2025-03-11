@@ -31,6 +31,7 @@ export const tweetsData = [
         ],
         isLiked: false,
         isRetweeted: false,
+        
         uuid: '3c23454ee-c0f5-9g9g-9c4b-77835tgs2',
     },
         {
