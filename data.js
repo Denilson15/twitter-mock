@@ -20,12 +20,12 @@ export const tweetsData = [
         replies: [
                   {
                 handle: `@TomCruise ✅`,
-                profilePic: `images/tcruise.png`,
+                profilePic: `public/images/tcruise.png`,
                 tweetText: `Yes! Sign me up! 😎🛩`,
             },
                   {
                 handle: `@ChuckNorris ✅`,
-                profilePic: `images/chucknorris.jpeg`,
+                profilePic: `public/images/chucknorris.jpeg`,
                 tweetText: `I went last year😴`,
             },
         ],
@@ -36,19 +36,19 @@ export const tweetsData = [
     },
         {
         handle: `@NoobCoder12`,
-        profilePic: `images/flower.png`,
+        profilePic: `public/images/flower.png`,
         likes: 10,
         retweets: 3,
         tweetText: `Are you a coder if you only know HTML?`,
         replies: [
             {
                 handle: `@StackOverflower ☣️`,
-                profilePic: `images/overflow.png`,
+                profilePic: `public/images/overflow.png`,
                 tweetText: `No. Obviosuly not. Go get a job in McDonald's.`,
             },
             {
                 handle: `@YummyCoder64`,
-                profilePic: `images/love.png`,
+                profilePic: `public/images/love.png`,
                 tweetText: `You are wonderful just as you are! ❤️`,
             },
         ],
