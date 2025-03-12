@@ -161,7 +161,7 @@ function getFeedHtml(){
         <div class="reply-input-area tweet-reply">
             <div class="tweet-inner">
                 <img src="images/scrimbalogo.png" class="profile-pic">
-                <textarea class="reply-area" placeholder="Post your reply" id="reply-input-${tweet.uuid}"></textarea>
+                <textarea class="reply-area" placeholder="Post reply..." id="reply-input-${tweet.uuid}"></textarea>
             </div>
             <button id="reply-btn" data-post-reply="${tweet.uuid}">Reply</button>
 		</div>
