@@ -1,7 +1,8 @@
-import {defineConfig} from "vite"
+import { defineConfig } from 'vite';
 
 export default defineConfig({
-	plugins: [
-		
-	]
+    base: './', // Ensures relative paths in production
+    build: {
+        outDir: 'dist'
+    }
 })
