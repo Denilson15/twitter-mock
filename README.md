@@ -1,19 +1,40 @@
-# Getting Started
-Install the dependencies and run the project
-```
+Twitter Mock
+
+This is a personalized Twitter-style feed built from scratch using HTML, CSS, and JavaScript. While the project idea and image assets were inspired by Scrimba’s Frontend Developer Career Path, the entire UI and codebase were developed independently.
+✨ Overview
+
+The project features a simple, mobile-first design that mimics a Twitter feed. It displays user tweets, profile images, and icons in a familiar layout to practice UI building and responsive design.
+🛠️ Personalization
+
+Although the original prompt came from Scrimba, the following aspects were fully custom:
+
+    Hand-coded structure and styling
+
+    Custom layout and alignment using flexbox
+
+    Built with responsiveness in mind (currently optimized for mobile)
+
+🚧 Planned Updates
+
+    Expand design for desktop view
+
+    Improve responsiveness across various screen sizes
+
+    Refactor code for cleaner organization
+
+🗂️ File Structure (basic)
+
+    index.html – structure of the feed
+
+    style.css – styles and layout
+
+    index.js – handles interactivity (if expanded in future)
+
+⚙️ Getting Started
+
+git clone https://github.com/Denilson15/twitter-mock.git
+cd twitter-mock
 npm install
-npm start
-```
+npm run dev
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+Open http://localhost:5173 to view it locally.
