@@ -1,40 +1,35 @@
-Twitter Mock
+# Twitter Mock
 
-This is a personalized Twitter-style feed built from scratch using HTML, CSS, and JavaScript. While the project idea and image assets were inspired by Scrimba’s Frontend Developer Career Path, the entire UI and codebase were developed independently.
-✨ Overview
+This is a personalized Twitter-style feed built from scratch using **HTML**, **CSS**, and **JavaScript**. While the project idea and image assets were inspired by Scrimba’s Frontend Developer Career Path, the entire UI and codebase were developed independently.
+
+## ✨ Overview
 
 The project features a simple, mobile-first design that mimics a Twitter feed. It displays user tweets, profile images, and icons in a familiar layout to practice UI building and responsive design.
-🛠️ Personalization
+
+## 🛠️ Personalization
 
 Although the original prompt came from Scrimba, the following aspects were fully custom:
 
-    Hand-coded structure and styling
+- Hand-coded structure and styling
+- Custom layout and alignment using flexbox
+- Built with responsiveness in mind (currently optimized for mobile)
 
-    Custom layout and alignment using flexbox
+## 🚧 Planned Updates
 
-    Built with responsiveness in mind (currently optimized for mobile)
+- Expand design for desktop view
+- Improve responsiveness across various screen sizes
+- Refactor code for cleaner organization
 
-🚧 Planned Updates
+## 🗂️ File Structure (basic)
 
-    Expand design for desktop view
+- `index.html` – structure of the feed
+- `style.css` – styles and layout
+- `index.js` – handles interactivity (if expanded in future)
 
-    Improve responsiveness across various screen sizes
+## ⚙️ Getting Started
 
-    Refactor code for cleaner organization
-
-🗂️ File Structure (basic)
-
-    index.html – structure of the feed
-
-    style.css – styles and layout
-
-    index.js – handles interactivity (if expanded in future)
-
-⚙️ Getting Started
-
+```bash
 git clone https://github.com/Denilson15/twitter-mock.git
 cd twitter-mock
 npm install
 npm run dev
-
-Open http://localhost:5173 to view it locally.
