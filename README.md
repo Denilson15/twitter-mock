@@ -2,7 +2,11 @@
 
 This is a personalized Twitter-style feed built from scratch using **HTML**, **CSS**, and **JavaScript**. While the project idea and image assets were inspired by Scrimba’s Frontend Developer Career Path, the entire UI and codebase were developed independently.
 
+> 💡 No AI was used in the development of this project. AI tools were used only for documentation purposes, like generating this README. I believe having a strong foundation in programming is crucial, and using AI responsibly as a tool is part of being an effective modern developer.
+
 ## ✨ Overview
+
+Live Demo: [https://beautiful-cuchufli-b9562b.netlify.app](https://beautiful-cuchufli-b9562b.netlify.app)
 
 The project features a simple, mobile-first design that mimics a Twitter feed. It displays user tweets, profile images, and icons in a familiar layout to practice UI building and responsive design.
 
