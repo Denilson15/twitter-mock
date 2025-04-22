@@ -10,6 +10,13 @@ Live Demo: [https://beautiful-cuchufli-b9562b.netlify.app](https://beautiful-cuc
 
 The project features a simple, mobile-first design that mimics a Twitter feed. It displays user tweets, profile images, and icons in a familiar layout to practice UI building and responsive design.
 
+## ⚙️ How It Works
+
+- The app uses a static array of tweet data (in JS) to populate the feed.
+- Each tweet includes user info, message text, and like/retweet icons.
+- JavaScript dynamically inserts each tweet into the DOM based on the data.
+- The layout is built using Flexbox, optimized for mobile viewing.
+
 ## 🛠️ Personalization
 
 Although the original prompt came from Scrimba, the following aspects were fully custom:
